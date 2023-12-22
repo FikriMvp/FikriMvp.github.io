@@ -1,0 +1,20 @@
+h1 { 
+    color: blue;
+}
+
+p {
+    color: red;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+html {
+    background-color: blanchedalmond;
+}
+
+/* class */
+.style  {
+    color: #efc759;
+}
