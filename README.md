@@ -1,1 +1,1 @@
-FikriMvp.github.io
+https://FikriMvp.github.io
